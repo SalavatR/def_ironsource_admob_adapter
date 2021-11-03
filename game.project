@@ -1,0 +1,5 @@
+[project]
+title = ironsource_admob_adapter
+
+[library]
+include_dirs = ironsource_admob_adapter

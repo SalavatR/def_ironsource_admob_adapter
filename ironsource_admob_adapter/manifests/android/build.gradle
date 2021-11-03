@@ -1,0 +1,10 @@
+repositories {
+    mavenCentral()
+    maven {url 'https://android-sdk.is.com/'}
+
+}
+dependencies {
+    // Add AdMob and Ad Manager Network
+    implementation 'com.google.android.gms:play-services-ads:20.2.0'
+    implementation 'com.ironsource.adapters:admobadapter:4.3.22'
+}
